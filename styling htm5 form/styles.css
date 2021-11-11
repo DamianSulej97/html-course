@@ -1,0 +1,26 @@
+/* 1 - BASE FORM STYLES */
+body {
+  background: #141414;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  background: #0d0d0d;
+  text-align: center;
+}
+form {
+  margin: 20px;
+  color: #eee;
+}
+font p {
+  font-size: 18px;
+  letter-spacing: 0.1e;
+}
+
+/* 3 - CHECKBOX STYLES  */
+
+/* 4 - TEXT INPUT STYLES & FIELDSETS */
+
+/* 5 - SELECT BOXES */
+
+/* 6 - INPUT VALIDATION STYLES */
